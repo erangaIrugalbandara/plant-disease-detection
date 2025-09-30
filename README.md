@@ -99,7 +99,7 @@ plant-disease-detection/
 ## Live Demo
 
 - **Backend API**: [Hugging Face Spaces](https://huggingface.co/spaces/mrtechnomix/plant-diseas)
-- **Web Application**: Modern UI with real-time disease detection
+- **Web Application**: https://plant-disease-detection-cv.netlify.app/
 
 ## Usage
 
